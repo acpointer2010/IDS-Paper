@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="531" version="1.1" viewBox="0 0 1081 531" width="1081">
+  <defs>
+    <linearGradient id="g1" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF"/>
+      <stop offset="100%" style="stop-color:#cfcfcf"/>
+    </linearGradient>
+    <svg height="16.0" id="i1" width="16.0">
+      <image height="16.0" width="16.0" xlink:href="data:image/png;base64,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"/>
+    </svg>
+    <svg height="16.0" id="i2" width="16.0">
+      <image height="16.0" width="16.0" xlink:href="data:image/png;base64,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"/>
+    </svg>
+    <svg height="30.0" id="i3" width="35.0">
+      <image height="30.0" width="35.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA1ZJREFUeNrsV8tKI1EQPd0m8QEjguAzvojGhQtBQVwYEAIu3Cnq0hchn5FP8ANEXERdqKgouhBFIZsQDbpyJf5AQPGJiiZOn5rcJol5jNGJi7GgsPveSp1TdetWtdrb2xu+U3R8s/wQ+HYCFp/PN2P89ei6jlgsVhBQTdMQL/45iwHqGRoa+uV0OlFWVlYQAs/Pzzg7O8Pm5qZHZ9QVFRU4Pj7Gw8ODMOPav1D6fnp6QigUQnl5uawxA6iqqsLr6yuCwSB6e3tRXFyMr+4PTPvLy4tg1NXViQqBaDQqDzU1NUIiEAjA5XLBZrN9WU2wvpRvu92OhoYG8U1si3qg1NbWiuHBwQH6+/thsVjMvXylqKhIwOhTgSufSRlQUl9fLyT29vbgdruFBN/zumLxAPb39wW4ubk5CUsyQOepUZIp13d3dzEwMCBR8Pw+IlarVcDog/5aWlre4RBD52I6JeOmpibs7OzIO0lksk1V2lK2t7elthwOR0ZbPZsjEmDatra2/pxXPKXZlDYsOuOOS021trZmtdfVEWRSEiCR9fV1M7WZbLlHAmtraxJ5W1tbVt9yBLkIUHl+1dXV8Pv9AsIrmmrDtdLSUszPz6OyshLsrLn8Zq2BRL28vMT5+Tm6urqwtLQkUbJZqX0+l5SUYHFxEe3t7bi4uMDt7e1f1UvODFxdXeHw8BDj4+NobGyUIyEJRkxQKmfIwsKCpL2jowNjY2NyjXORIHbaa6jk5uYGJycn8Hq9UoRMLbskQWdnZ5Nsu7u7pY2z5VKmp6elEDs7O8U+nQgBxSZVyP7o6Egif3x8lIiV856eHtFMPV81t8HBQWxsbAi5dCTk1qQjQHBOx4mJCZleqpdnmw1qdOkGATX9KMaox+rqqpBgkb4jkHoEd3d3Aj45OSnjmQXHyZjYCfmuspFKAPE9kqYddXh4OC0J8wgUW0bOM2fkfE4E+eh4Vr+lb3bG0dFRrKysyE1SJJKm4f39PcLhMKampnB9fW06yXcQJRKhD2ZwZGQEy8vLZk2Y05BpPz09lbTzzivWiZHn84FC8MRMEItXlJkgCckA7Rg5wSORiHkcn4080xcR/apMGEFpWl9f34yx6eE148diIYTtnEQMAnPaz/+G/z2B3wIMAEYkpOK1o6E/AAAAAElFTkSuQmCC"/>
+    </svg>
+  </defs>
+  <rect fill="url(#g1)" height="217" stroke="#000000" stroke-width="1.0" width="25" x="1" y="0"/>
+  <rect fill="none" height="217" stroke="#000000" stroke-width="1.0" width="1053" x="26" y="0"/>
+  <g id="_2"/>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(270 17.0 108.0)" x="17" y="111">Provider</text>
+  <g id="_9">
+    <path d=" M 89 91.0 C 89 83.0 124 83.0 124 91.0 L 124 109.0 C 124 117.0 89 117.0 89 109.0 Z" fill="url(#g1)" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 89 91.0 C 89 97.0 124 97.0 124 91.0 M 89 94.0 C 89 100.0 124 100.0 124 94.0 M 89 97.0 C 89 103.0 124 103.0 124 97.0" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="107" y="128">DataProvider Data Store</text>
+  <g id="_10">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="202" y="72"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="244" y="97">Describe</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="244" y="108">Data Source</text>
+  <g id="_16">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="390" y="155"/>
+    <use height="16.0" preserveAspectRatio="none" width="16.0" x="395.0" xlink:href="#i1" y="158.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="432" y="180">Send</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="432" y="191">Metadata</text>
+  <g id="_19">
+    <path d=" M 321 81 L 321 119 L 350 119 L 350 90.0 L 341.0 81 Z" fill="url(#g1)" stroke="#000000" stroke-width="1.0"/>
+    <path d=" M 341.0 81 L 341.0 90.0 L 350 90.0" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="335" y="132">DS Metadata</text>
+  <g id="_3">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="676" y="74"/>
+    <use height="16.0" preserveAspectRatio="none" width="16.0" x="681.0" xlink:href="#i2" y="77.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="718" y="99">Receive</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="718" y="110">Certificate</text>
+  <g id="_25">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="827" y="74"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="870" y="94">Install DS</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="870" y="105">Certificate in</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="870" y="116">Connector</text>
+  <g id="_29">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="435" y="72"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="478" y="97">Install IDS</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="478" y="108">Connector</text>
+  <g id="_6">
+    <ellipse cx="68" cy="36" fill="url(#g1)" rx="16" ry="16" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="159" y="49">Start</text>
+  <g id="_34">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="968" y="74"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="1010" y="99">Run &amp; Maintain</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="1010" y="110">IDS Connector</text>
+  <g id="_27">
+    <path d="M 827.5 101.97058823529414 L 817.5 106.97058823529414 L 820.0 101.97058823529414 L 817.5 96.97058823529414 z" fill="#000000" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 761.5 101.97058823529414 L 784.5650154798761 101.97058823529414 Q 794.5650154798761 101.97058823529414 794.5650154798761 101.97058823529414 L 794.5650154798761 101.97058823529414 L 828.0 101.97058823529414" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <g id="_21">
+    <path d="M 377.5 189.34210526315792 L 387.5 183.34210526315792 L 377.5 177.34210526315792 M 389.5 183.34210526315792" fill="none" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 351.0 100.18421052631578 L 360.66315789473686 100.18421052631578 Q 370.3263157894737 100.18421052631578 370.3263157894737 110.18421052631578 L 370.3263157894737 173.34210526315792 Q 370.3263157894737 183.34210526315792 380.16315789473686 183.34210526315792 L 390.0 183.34210526315792" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_20">
+    <path d="M 309.5 106.18421052631578 L 319.5 100.18421052631578 L 309.5 94.18421052631578 M 321.5 100.18421052631578" fill="none" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 287.0 100.18421052631578 L 295.7236842105263 100.18421052631578 Q 304.4473684210526 100.18421052631578 304.4473684210526 100.18421052631578 L 304.4473684210526 100.18421052631578 L 322.0 100.18421052631578" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_13">
+    <path d="M 189.5 106.18421052631578 L 199.5 100.18421052631578 L 189.5 94.18421052631578 M 201.5 100.18421052631578" fill="none" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 125.0 100.18421052631578 L 153.56842105263158 100.18421052631578 Q 163.56842105263158 100.18421052631578 163.56842105263158 100.18421052631578 L 163.56842105263158 100.18421052631578 L 202.0 100.18421052631578" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_36">
+    <path d="M 968.5 101.97058823529414 L 958.5 106.97058823529414 L 961.0 101.97058823529414 L 958.5 96.97058823529414 z" fill="#000000" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 913.5 101.97058823529414 L 930.7352941176468 101.97058823529414 Q 940.7352941176468 101.97058823529414 940.7352941176468 101.97058823529414 L 940.7352941176468 101.97058823529414 L 969.0 101.97058823529414" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <g id="_32">
+    <path d="M 229.0 72.5 L 224.0 62.5 L 229.0 65.0 L 234.0 62.5 z" fill="#000000" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 84.49218559171948 36.5 L 219.0 36.5 Q 229.0 36.5 229.0 46.5 L 229.0 73.0" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <g id="_31">
+    <path d="M 870.235294117647 73.5 L 865.235294117647 63.5 L 870.235294117647 66.0 L 875.235294117647 63.5 z" fill="#000000" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 478.3529411764705 72.5 L 478.3529411764705 59.5 Q 478.3529411764705 49.5 488.3529411764705 49.5 L 860.235294117647 49.5 Q 870.235294117647 49.5 870.235294117647 59.5 L 870.235294117647 74.0" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <g id="_30">
+    <path d="M 423.5 106.18421052631578 L 433.5 100.18421052631578 L 423.5 94.18421052631578 M 435.5 100.18421052631578" fill="none" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 351.0 100.18421052631578 L 383.24489164086685 100.18421052631578 Q 393.24489164086685 100.18421052631578 393.24489164086685 100.18421052631578 L 393.24489164086685 100.18421052631578 L 436.0 100.18421052631578" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <rect fill="url(#g1)" height="200" stroke="#000000" stroke-width="1.0" width="25" x="1" y="320"/>
+  <rect fill="none" height="200" stroke="#000000" stroke-width="1.0" width="1053" x="26" y="320"/>
+  <g id="_7"/>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(270 17.0 420.0)" x="17" y="423">Broker</text>
+  <g id="_14">
+    <path d=" M 524 482.0 C 524 474.0 559 474.0 559 482.0 L 559 500.0 C 559 508.0 524 508.0 524 500.0 Z" fill="url(#g1)" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 524 482.0 C 524 488.0 559 488.0 559 482.0 M 524 485.0 C 524 491.0 559 491.0 559 485.0 M 524 488.0 C 524 494.0 559 494.0 559 488.0" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="541" y="519">Metadata Repository</text>
+  <g id="_22">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="390" y="390"/>
+    <use height="16.0" preserveAspectRatio="none" width="16.0" x="395.0" xlink:href="#i2" y="393.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="432" y="415">Receive DS</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="432" y="426">Metadata</text>
+  <g id="_4">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="543" y="390"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="585" y="415">Create DS</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="585" y="426">Certificate</text>
+  <g id="_8">
+    <rect fill="url(#g1)" height="55" rx="8.25" ry="8.25" stroke="#000000" stroke-width="1.0" width="85" x="675" y="390"/>
+    <use height="16.0" preserveAspectRatio="none" width="16.0" x="680.0" xlink:href="#i1" y="393.0"/>
+  </g>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="717" y="415">Send DS</text>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="middle" x="717" y="426">Certificate</text>
+  <g id="_28">
+    <path d="M 572.5 485.7105263157896 L 562.5 491.7105263157896 L 572.5 497.7105263157896 M 560.5 491.7105263157896" fill="none" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 583.0 445.0 L 583.0 481.7105263157896 Q 583.0 491.7105263157896 573.0 491.7105263157896 L 560.0 491.7105263157896" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_24">
+    <path d="M 512.5 497.7105263157896 L 522.5 491.7105263157896 L 512.5 485.7105263157896 M 524.5 491.7105263157896" fill="none" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 475.0 417.61764705882354 L 490.1578947368421 417.61764705882354 Q 500.1578947368421 417.61764705882354 500.1578947368421 427.61764705882354 L 500.1578947368421 481.7105263157896 Q 500.1578947368421 491.7105263157896 510.1578947368421 491.7105263157896 L 525.0 491.7105263157896" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_5">
+    <path d="M 542.5 417.61764705882354 L 532.5 422.61764705882354 L 535.0 417.61764705882354 L 532.5 412.61764705882354 z" fill="#000000" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 475.5 417.61764705882354 L 499.32662538699685 417.61764705882354 Q 509.32662538699685 417.61764705882354 509.32662538699685 417.61764705882354 L 509.32662538699685 417.61764705882354 L 543.0 417.61764705882354" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <g id="_11">
+    <path d="M 675.5 417.61764705882354 L 665.5 422.61764705882354 L 668.0 417.61764705882354 L 665.5 412.61764705882354 z" fill="#000000" stroke="#000000" stroke-width="1.0"/>
+    <path d="M 628.5 417.61764705882354 L 642.0294117647059 417.61764705882354 Q 652.0294117647059 417.61764705882354 652.0294117647059 417.61764705882354 L 652.0294117647059 417.61764705882354 L 676.0 417.61764705882354" fill="none" stroke="#000000" stroke-width="1.0"/>
+  </g>
+  <use height="30.0" id="_15" preserveAspectRatio="xMidYMid" width="35.0" x="413.0" xlink:href="#i3" y="232.0"/>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="start" x="451" y="250">DS Metadata</text>
+  <use height="30.0" id="_12" preserveAspectRatio="xMidYMid" width="35.0" x="702.0" xlink:href="#i3" y="233.0"/>
+  <text fill="#000000" font-decoration="none" font-family="Arial,Helvetica" font-size="11" font-weight="normal" text-anchor="start" x="740" y="251">DS Certificate</text>
+  <g id="_26">
+    <path d="M 720.2905706141229 234.0 L 718.8245649129826 129.0" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_23">
+    <path d="M 430.67840539284055 263.0 L 432.1889043855571 390.0" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_18">
+    <path d="M 718.8240880416311 390.0 L 720.3090005232863 264.0" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+  <g id="_17">
+    <path d="M 431.6486908153575 211.0 L 430.9676434676435 233.0" fill="none" stroke="#000000" stroke-dasharray="3, 3" stroke-width="1.0"/>
+  </g>
+</svg>
